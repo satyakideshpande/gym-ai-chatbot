@@ -1,0 +1,63 @@
+=== GYM BASIC INFORMATION ===
+
+Gym Name: Atenx
+Location: 10, Kothrud Industrial Estate, near Oblique Kitchen, Kothrud, Pune, Maharashtra 411038
+Number of Floors: 3
+Air Conditioned: Yes
+
+---
+
+=== MEMBERSHIP DETAILS ===
+
+Annual Membership Fee: 14000 INR
+Maximum Discount Available: 2000 INR
+Final Annual Membership Fee: 12000 INR
+
+Monthly Membership Fee: 1500 INR
+Quarterly Membership Fee: 7000 INR
+
+---
+
+=== TRAINER INFORMATION ===
+
+Number of Personal Trainers: 5
+
+Personal Trainer Monthly Cost: 5000 INR
+Personal Trainer Quarterly Cost: 13000 INR
+
+---
+
+=== EQUIPMENT DETAILS ===
+
+Cardio Equipment:
+- Treadmills: 6
+- Cross Trainers: 4
+- Stationary Bikes: 5
+
+Strength Equipment:
+- Bench Press Machines: 3
+- Squat Racks: 2
+- Dumbbells: 2kg to 40kg range
+
+---
+
+=== FACILITIES ===
+
+Locker Facility: Yes
+Shower Facility: Yes
+Parking Available: Only for 2 wheelers. No car parking available
+
+---
+
+=== TIMINGS ===
+
+Weekdays: 6:00 AM - 10:00 PM
+Weekends: 6:00 AM - 9:00 PM
+Closed On: Sunday
+
+---
+
+=== CONTACT INFORMATION ===
+
+Phone: 9876543210
+Email: atenx_kothurd@gmail.com

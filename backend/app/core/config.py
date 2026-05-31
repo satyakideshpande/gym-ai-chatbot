@@ -2,6 +2,7 @@ from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
     environment: str = "development"
+    google_api_key: str = ""
 
     class Config:
         env_file = ".env"

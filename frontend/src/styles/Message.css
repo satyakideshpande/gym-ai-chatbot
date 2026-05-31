@@ -1,0 +1,78 @@
+.message-container {
+  display: flex;
+  margin-bottom: 0.25rem;
+  animation: slideIn 0.2s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.message-container.user {
+  justify-content: flex-end;
+}
+
+.message-container.assistant {
+  justify-content: flex-start;
+}
+
+.message-bubble {
+  max-width: 70%;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  word-wrap: break-word;
+  box-shadow: none;
+  transition: all 0.2s ease;
+  border: 1px solid;
+}
+
+.message-container.user .message-bubble {
+  background-color: var(--user-bubble-bg);
+  color: var(--user-bubble-text);
+  border-color: var(--user-bubble-border);
+}
+
+.message-container.assistant .message-bubble {
+  background-color: var(--assistant-bubble-bg);
+  color: var(--assistant-bubble-text);
+  border-color: var(--assistant-bubble-border);
+}
+
+.message-bubble p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  word-break: break-word;
+  letter-spacing: -0.01em;
+}
+
+.message-time {
+  display: block;
+  font-size: 0.75rem;
+  opacity: 0.6;
+  margin-top: 0.4rem;
+}
+
+.message-container.user .message-bubble:hover,
+.message-container.assistant .message-bubble:hover {
+  opacity: 0.95;
+}
+
+@media (max-width: 768px) {
+  .message-bubble {
+    max-width: 85%;
+    padding: 0.7rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  .message-time {
+    font-size: 0.7rem;
+  }
+}
