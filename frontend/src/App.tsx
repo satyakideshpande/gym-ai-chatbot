@@ -10,7 +10,7 @@ import './styles/App.css';
 export const App: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [, setError] = useState<string | null>(null);
   const { theme, toggleTheme } = useTheme();
 
   const handleSendMessage = useCallback(async (text: string) => {
