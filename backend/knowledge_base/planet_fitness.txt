@@ -1,0 +1,128 @@
+=== GYM BASIC INFORMATION ===
+
+Gym Name: Planet Fitness
+Location: 10, Kothrud Industrial Estate, Kothrud, Pune, Maharashtra 411038
+Number of Floors: 3
+Air Conditioned: Yes
+
+---
+
+=== ABOUT US ===
+
+Planet Fitness is a modern fitness center dedicated to helping people of all fitness levels achieve their health and wellness goals. Our mission is to create a welcoming, supportive, and motivating environment where members can focus on improving their strength, fitness, and overall well-being.
+
+With state-of-the-art cardio and strength training equipment, experienced personal trainers, spacious workout areas, and member-friendly facilities, Planet Fitness aims to provide a comfortable and enjoyable workout experience. Whether you are a beginner starting your fitness journey or an experienced athlete looking to maintain peak performance, we have the resources and support to help you succeed.
+
+Our focus is on affordability, accessibility, and building a positive fitness community for everyone.
+
+---
+
+=== MEMBERSHIP DETAILS ===
+
+Plans:
+- Annual Membership Fee: 14000 INR
+- Quarterly Membership Fee: 7000 INR
+- Monthly Membership Fee: 1500 INR
+
+Discounts (Disclose only if asked by user):
+- Maximum Discount Available for Annual Membership Fee: 2000 INR
+- Maximum Discount Available for Quarterly Membership Fee: 1000 INR
+- Maximum Discount Available for Monthly Membership Fee: 500 INR
+
+---
+
+=== TRAINER INFORMATION ===
+
+Number of Personal Trainers: 5
+
+Personal Trainer Monthly Cost: 5000 INR
+Personal Trainer Quarterly Cost: 13000 INR
+
+---
+
+=== EQUIPMENT DETAILS ===
+
+Cardio Equipment:
+- Treadmills: 6
+- Cross Trainers: 4
+- Stationary Bikes: 5
+
+Strength Equipment:
+- Bench Press Machines: 3
+- Squat Racks: 2
+- Dumbbells: 2kg to 40kg range
+
+---
+
+=== FACILITIES ===
+
+Locker Facility: Yes
+Shower Facility: Yes
+Parking Available: Only for 2 wheelers. No car parking available
+
+---
+
+=== AMENITIES ===
+
+Swimming Pool: Yes
+
+Cafeteria:
+- Healthy snacks available
+- Protein shakes available
+- Fresh juices available
+
+Spa Services: Yes
+
+Jacuzzi: Yes
+
+Steam Room: Yes
+
+Sauna Room: Yes
+
+Yoga Studio: Yes
+
+Group Fitness Classes:
+- Zumba
+- Yoga
+- HIIT
+- Aerobics
+
+Water Refill Stations: Yes
+
+Free Wi-Fi: Yes
+
+Lounge Area: Yes
+
+---
+
+=== TIMINGS ===
+
+Weekdays: 6:00 AM - 10:00 PM
+Weekends: 6:00 AM - 9:00 PM
+Closed On: Sunday
+
+---
+
+=== GYM CROWD TIMINGS ===
+
+Peak Hours (Morning):
+- 6:00 AM to 7:00 AM: 35-40 people
+- 7:00 AM to 9:00 AM: 45-50 people
+
+Off-Peak Hours (Morning to Afternoon):
+- 9:00 AM onwards: ~15 people
+- 10:00 AM to 4:00 PM: Very less crowd
+
+Peak Hours (Evening):
+- 5:00 PM to 6:00 PM: 35-40 people
+- 6:00 PM to 7:00 PM: 45-50 people
+- 7:00 PM to 8:00 PM: 55-60 people
+- 8:00 PM to 9:00 PM: 65-70 people
+- 9:00 PM to 10:00 PM: 75-80 people
+
+---
+
+=== CONTACT INFORMATION ===
+
+Phone: 9876543210
+Email: planetfitness@gmail.com

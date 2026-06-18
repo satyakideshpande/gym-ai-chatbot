@@ -215,7 +215,7 @@ backend/
 │   ├── services/llm_service.py  # AI logic
 │   └── core/config.py       # Settings
 ├── knowledge_base/
-│   └── atenx_kothrud.txt    # Gym data
+│   └── planet_fitness.txt    # Gym data
 ├── .env                     # API keys (create this!)
 └── requirements.txt         # Python packages
 ```

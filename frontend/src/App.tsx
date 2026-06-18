@@ -56,9 +56,19 @@ export const App: React.FC = () => {
     }
   }, []);
 
-  const handleClearChat = useCallback(() => {
-    setMessages([]);
-    setError(null);
+  const handleClearChat = useCallback(async () => {
+    try {
+      // Call backend to clear conversation memory
+      await chatbotService.clearChat();
+      
+      // Clear frontend state
+      setMessages([]);
+      setError(null);
+    } catch (err) {
+      const errorMessage = err instanceof Error ? err.message : 'Failed to clear chat';
+      setError(errorMessage);
+      console.error('Error clearing chat:', errorMessage);
+    }
   }, []);
 
   return (

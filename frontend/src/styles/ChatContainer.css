@@ -21,6 +21,14 @@
   font-weight: 500;
   color: var(--text-primary);
   letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.chat-header h1 svg {
+  vertical-align: middle;
+  transform: translateY(2px);
 }
 
 .clear-btn {

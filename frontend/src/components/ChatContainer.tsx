@@ -1,4 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
+import { FaScroll } from 'react-icons/fa';
 import { Message } from '../types';
 import { MessageBubble } from './Message';
 import { LoadingBubbles } from './LoadingBubbles';
@@ -34,7 +35,7 @@ export const ChatContainer: React.FC<ChatContainerProps> = ({
   return (
     <div className="chat-container">
       <div className="chat-header">
-        <h1>Atenx AI</h1>
+        <h1>Planet Fitness <FaScroll /></h1>
         <button
           className="clear-btn"
           onClick={() => setShowClearConfirm(true)}
@@ -62,7 +63,7 @@ export const ChatContainer: React.FC<ChatContainerProps> = ({
       <div className="messages-area">
         {messages.length === 0 && !isLoading && (
           <div className="empty-state">
-            <h2>Welcome to Atenx</h2>
+            <h2>Welcome to Planet Fitness</h2>
             <p>Ask me anything about our gym services!</p>
           </div>
         )}

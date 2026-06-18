@@ -25,6 +25,24 @@ export const chatbotService = {
     }
   },
 
+  async clearChat(): Promise<void> {
+    try {
+      const response = await fetch(`${API_URL}/chatbot/clear`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+
+      if (!response.ok) {
+        throw new Error(`Failed to clear chat: ${response.status}`);
+      }
+    } catch (error) {
+      console.error('Error clearing chat:', error);
+      throw error;
+    }
+  },
+
   async checkHealth(): Promise<boolean> {
     try {
       const response = await fetch(`${API_URL}/health/`);
