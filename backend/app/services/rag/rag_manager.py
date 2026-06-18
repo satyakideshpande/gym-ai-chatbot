@@ -53,6 +53,12 @@ class RAGManager:
         
         # Check if collection already has data
         existing_stats = self.vector_store.get_stats()
+
+        print(
+            f"Found existing collection with "
+            f"{existing_stats['total_chunks']} chunks"
+        )
+
         if existing_stats['total_chunks'] > 0:
             if verbose:
                 print("\n" + "="*60)
