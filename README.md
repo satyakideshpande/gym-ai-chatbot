@@ -234,14 +234,14 @@ npm run build
 **Request:**
 ```json
 {
-  "question": "What's the best exercise for building arm muscles?"
+  "question": "What is the yearly membership plan cost ?"
 }
 ```
 
 **Response:**
 ```json
 {
-  "answer": "The best exercises for building arm muscles include bicep curls, tricep dips, and overhead presses..."
+  "answer": "The yearly membership plan costs ......"
 }
 ```
 
